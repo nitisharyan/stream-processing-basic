@@ -37,4 +37,4 @@ Enter some text in the console producer and watch the output in the console cons
 
 Also, look at the console where the application is running for the log messages.
 
-Once you are done, stop the Kafka cluster: `docker-compose down`
+Once you are done, stop the Kafka cluster: `docker-compose down` (from the root of the repository where the docker-compose script resides)
