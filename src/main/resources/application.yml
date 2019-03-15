@@ -1,0 +1,7 @@
+spring:
+  application.name: basic-stateless-stream-processing
+  cloud:
+    stream:
+      bindings:
+        input.destination: foo
+        output.destination: bar
